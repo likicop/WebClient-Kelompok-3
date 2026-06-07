@@ -39,3 +39,20 @@ Website NexaLab memiliki 3 halaman utama:
 - GitHub
 
 ## Struktur Folder Awal
+
+WebClient-NexaLab/
+│
+├── README.md
+├── desain/
+│   ├── desktop/
+│   │   ├── beranda.png
+│   │   ├── layanan.png
+│   │   └── kontak.png
+│   │
+│   └── mobile/
+│       ├── beranda.png
+│       ├── layanan.png
+│       └── kontak.png
+│
+└── docs/
+    └── laporan-uts.md
