@@ -4,11 +4,11 @@
 NexaLab - Website Company Profile IT Agency
 
 ## Nama Team
-- Nacwa Julianti
+- Nacwa Julianti            25120500019
 - Rafael Satrio Samidjan    25120500003
 - Rizky Dwi Saputra         25120500017
 - Rafael Satrio Samidjan    25120500003
-- Rifandi Imanuel
+- Rifandi Imanuel           25120500010
 
 ## Deskripsi Proyek
 NexaLab adalah rancangan website company profile untuk sebuah IT Agency yang menyediakan layanan digital seperti Web Development, Mobile App Development, Data Analytics & Dashboard, dan IT Consulting.
@@ -64,5 +64,5 @@ WebClient-NexaLab/
 │       ├── layanan.png
 │       └── kontak.png
 │
-└── docs/
+└── PPT/
     └── laporan-uts.md
